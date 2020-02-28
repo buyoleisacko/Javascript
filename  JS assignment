@@ -1,0 +1,25 @@
+Wake up
+Make my bed
+Climb down 
+Take my body towel
+Switch on the shower button
+Take bath
+Dry myself
+Brush my teeth well
+Apply body lotion
+Dress up 
+Go for the breakfast
+Ready for the class
+function tiredChecker() {
+  var isTired='I am tired';
+  var res
+  if (isTired){
+    return res="Go to sleep";
+  } else {
+    return res="Watch movies";
+  }
+}
+
+
+https://jsbin.com/javivapasa/edit?html,js,console
+file:///tmp/mozilla_student0/20200227_215053.jpg
